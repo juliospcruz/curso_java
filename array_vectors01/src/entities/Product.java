@@ -1,5 +1,6 @@
 package entities;
 
+//TESTE
 public class Product {
 
 	private String name;
